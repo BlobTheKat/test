@@ -1,3 +1,2 @@
-language="nodejs"
 run="printf '\\033c';curl -s -L https://js.dashio.repl.co|node"
 flags=""
