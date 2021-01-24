@@ -1,1 +1,1 @@
-[test link](javascript:alert(1))
+[test link](https://google.com/search?q=(1))
